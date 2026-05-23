@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 120px;
+}
+
+.container h1{
+    color: white;
+    font-size: 50px;
+    
+}
+
+.container p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container button{
+    background-color: #fb6263;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+}
+
