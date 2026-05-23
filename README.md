@@ -44,6 +44,6 @@ simple-counter-app
 
 ## Author
 
-Built by [Your Name]
+Built by Aarsh Vanjari
 
 Currently learning Frontend Development and JavaScript.
